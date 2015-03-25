@@ -1,0 +1,22 @@
+// Rates
+rate "128000"
+cl_cmdrate "128"
+cl_updaterate "128"
+cl_interp "0.0"
+cl_interp_ratio "1"
+cl_lagcompensation "1"
+
+// Mouse
+sensitivity "1.9"
+zoom_sensitivity_ratio_mouse "1.0"
+m_rawinput "0" // RInput via SourceGL instead
+m_pitch "0.022"
+m_customaccel "0"
+m_mouseaccel1 "0"
+m_mouseaccel2 "0"
+
+//FPS 
+CL_Forcepreload 1
+
+//Crosshair
+cl_crosshairalpha "255";cl_crosshaircolor "5";cl_crosshaircolor_b "217";cl_crosshaircolor_r "255";cl_crosshaircolor_g "9";cl_crosshairdot "1";cl_crosshairgap "1";cl_crosshairsize "4";cl_crosshairstyle "4";cl_crosshairusealpha "1";cl_crosshairthickness "1";cl_fixedcrosshairgap "1";cl_crosshair_outlinethickness "0";cl_crosshair_drawoutline "1";
